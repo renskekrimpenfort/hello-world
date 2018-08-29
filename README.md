@@ -1,3 +1,3 @@
 # hello-world
 Test
-Here I will practice coding. First I will test how commit this
+Here I will practice coding. First I will test how to commit this
